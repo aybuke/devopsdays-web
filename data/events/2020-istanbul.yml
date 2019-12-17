@@ -65,7 +65,7 @@ team_members: # Name is the only required field for team members.
   - name: "Emrullah Acar"
   - name: "Ömer Büyükoğlu"
   - name: "Mert Saygı"
-#  - name: "Barış Şekerciler"
+  - name: "Barış Şekerciler"
 
 organizer_email: "istanbul@devopsdays.org" # Put your organizer email address here
 
